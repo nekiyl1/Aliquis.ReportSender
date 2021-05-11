@@ -63,5 +63,4 @@ req.send(JSON.stringify(parameters));
 * toUserId – идентификатор пользователя которому будет отправлен сформированный отчёт
 * subject – тема письма
 
-[Скачать решение][link]
-[link]: https://aliquis.ru/programmirovanie/aliquis-reportsender/ "Скачать решение"
+Скачать решение: https://aliquis.ru/programmirovanie/aliquis-reportsender/
